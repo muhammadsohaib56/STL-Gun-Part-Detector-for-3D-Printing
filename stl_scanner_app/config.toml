@@ -1,0 +1,7 @@
+[theme]
+base = "light"
+primaryColor = "#3E92A3"                # Pastel teal
+backgroundColor = "#EFF3F6"             # Very light blue-gray
+secondaryBackgroundColor = "#DAEAF1"    # Light pastel blue
+textColor = "#1B2A41"                   # Dark navy for readability
+font = "sans serif"
